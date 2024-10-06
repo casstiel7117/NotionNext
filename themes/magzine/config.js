@@ -52,6 +52,10 @@ const CONFIG = {
         {
           title: '无限易',
           href: 'https://infinitrader.quantdo.com.cn'
+        },
+        {
+          title: '期权论坛',
+          href: 'https://www.optbbs.com'
         }
       ]
     },
