@@ -78,25 +78,25 @@ const CONFIG = {
       ]
     },
     {
-      name: '支持',
+      name: '量化交易平台',
       menus: [
         {
-          title: '站长社群',
-          href: 'https://docs.tangly1024.com/article/chat-community'
+          title: '优矿(Uqer)',
+          href: 'https://www.uqer.io'
         },
         {
-          title: '咨询与定制',
-          href: 'https://docs.tangly1024.com/article/my-service'
+          title: '天勤',
+          href: 'https://www.shinnytech.com/tianqin/'
         },
         {
-          title: '升级手册',
-          href: 'https://docs.tangly1024.com/article/my-service'
+          title: 'SuperMind',
+          href: 'https://quant.10jqka.com.cn'
         },
         {
-          title: '安装教程',
-          href: 'https://docs.tangly1024.com/article/how-to-update-notionnext'
+          title: 'Bigquant',
+          href: 'https://www.bigquant.com'
         },
-        { title: 'SEO推广', href: 'https://seo.tangly1024.com/' }
+        { title: '真格', href: 'https://quant.pobo.net.cn' }
       ]
     },
     {
