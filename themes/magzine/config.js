@@ -31,7 +31,7 @@ const CONFIG = {
 
   // 文章页面联系卡
   MAGZINE_SOCIAL_CARD: true, // 是否显示右侧，点击加入社群按钮
-  MAGZINE_SOCIAL_CARD_TITLE_1: '交流频道',
+  MAGZINE_SOCIAL_CARD_TITLE_1: '工具频道',
   MAGZINE_SOCIAL_CARD_TITLE_2: '加入社群讨论分享',
   MAGZINE_SOCIAL_CARD_TITLE_3: '点击加入社群',
   MAGZINE_SOCIAL_CARD_URL: 'https://www.baidu.com',
