@@ -39,16 +39,20 @@ const CONFIG = {
   // 页脚菜单
   MAGZINE_FOOTER_LINKS: [
     {
-      name: '友情链接',
+      name: '相关链接',
       menus: [
         {
-          title: 'Tangly的学习笔记',
-          href: 'https://blog.tangly1024.com'
+          title: '通达信',
+          href: 'https://www.tdx.com.cn'
         },
         {
-          title: 'NotionNext',
-          href: 'https://www.tangly1024.com'
-        }
+          title: '文华财经',
+          href: 'https://www.wenhua.com.cn'
+        },
+         {
+          title: '无限易',
+          href: 'https://infinitrader.quantdo.com.cn'
+        },
       ]
     },
     {
