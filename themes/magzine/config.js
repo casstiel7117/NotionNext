@@ -49,10 +49,10 @@ const CONFIG = {
           title: '文华财经',
           href: 'https://www.wenhua.com.cn'
         },
-         {
+        {
           title: '无限易',
           href: 'https://infinitrader.quantdo.com.cn'
-        },
+        }
       ]
     },
     {
