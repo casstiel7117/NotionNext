@@ -11,6 +11,7 @@ const CONFIG = {
   MAGZINE_HOME_DESCRIPTION:
     '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
   MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+  MAGZINE_HOME_TITLE_LINK: 'https://www.baidu.com',
 
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
