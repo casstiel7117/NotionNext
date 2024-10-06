@@ -7,10 +7,10 @@ const CONFIG = {
 
   MAGZINE_HOME_HIDDEN_CATEGORY: '分享杂文', //不希望在首页展示的文章分类，用英文逗号隔开
 
-  MAGZINE_HOME_TITLE: '立即开创您的在线业务。完全免费。',
+  MAGZINE_HOME_TITLE: '量化指标答疑|助您精准把握数据核心。',
   MAGZINE_HOME_DESCRIPTION:
-    '借助NotionNext，获得助您开创、经营和扩展业务所需的全部工具和帮助。',
-  MAGZINE_HOME_TIPS: 'AI时代来临，这是属于超级个体的狂欢盛宴！',
+    '借助阿优派，获得助您通往交易成功之路的工具和帮助。',
+  MAGZINE_HOME_TIPS: '量化时代来临，这是属于超级个体的狂欢盛宴！',
  
   // 首页底部推荐文章标签, 例如 [推荐] , 最多六篇文章; 若留空白''，则推荐最近更新文章
   MAGZINE_RECOMMEND_POST_TAG: '推荐',
