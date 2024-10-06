@@ -56,24 +56,24 @@ const CONFIG = {
       ]
     },
     {
-      name: '开发者',
+      name: '量化交易平台',
       menus: [
-        { title: 'Github', href: 'https://github.com/tangly1024/NotionNext' },
+        { title: '聚宽(JoinQuant)', href: 'https://www.joinquant.com' },
         {
-          title: '开发帮助',
-          href: 'https://docs.tangly1024.com/article/how-to-develop-with-notion-next'
+          title: '迅投QMT',
+          href: 'https://www.thinktrader.net'
         },
         {
-          title: '功能反馈',
-          href: 'https://github.com/tangly1024/NotionNext/issues/new/choose'
+          title: '果仁',
+          href: 'https://www.guorn.com'
         },
         {
-          title: '技术讨论',
-          href: 'https://github.com/tangly1024/NotionNext/discussions'
+          title: '米筐(Ricequant)',
+          href: 'https://www.ricequant.com'
         },
         {
-          title: '关于作者',
-          href: 'https://blog.tangly1024.com/about'
+          title: '掘金量化',
+          href: 'www.myquant.cn'
         }
       ]
     },
